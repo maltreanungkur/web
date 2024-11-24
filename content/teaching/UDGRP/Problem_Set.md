@@ -7,7 +7,7 @@ If you're here just for the problem sets, we've got you covered! Simply click on
 
 |     Lecture Date      |      Problem Set      |     Download     |
 |:---------------------:|:---------------------:|:----------------:|
-| Monday, 25th Nov 2024 | **Problem Set I**     | [Download](#)    |
+| Monday, 25th Nov 2024 | **Problem Set I**     | [Download](documents/GGT_P1.pdf)    |
 | Friday, 29th Nov 2024 | **Problem Set II**    |   |
 | Monday, 2nd Dec 2024 | **Problem Set III**   |   |
 | Friday, 6th Dec 2024 | **Problem Set IV**    |   |
