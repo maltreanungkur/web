@@ -25,7 +25,7 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 ### 0. Introductory Talk
 
 **Date**: October 19, 2024. <br>
-**Speaker**: Rinkiny Ghatak and Treanungkur Mal. <br>
+**Speakers**: Rinkiny Ghatak and Treanungkur Mal. <br>
 
 Rinkiny began by briefly introducing the definition of a group and providing some examples. She then defined free groups and explored the structure of Cayley graphs, including how the Cayley graph of a free group looks-like. Additionally, she introduced the concept of group presentations, concluding her talk with the group presentation of the well-known Lamplighter Group.
 
@@ -34,7 +34,7 @@ Whereas, I aimed to demonstrate how one can understand a complex group presentat
 ### 1. Basics of Group Theory
 
 **Date**: November 25, 2024.<br>
-**Speakers**: Rinkiny Ghatak. <br>
+**Speaker**: Rinkiny Ghatak. <br>
 
 In this lecture, we cover prerequisites of GGT, including:
 - Definition of Group
