@@ -10,6 +10,6 @@ If you're in the GGT UDGRP, you can find all the lecture notes and problem sets 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Teaching" icon="book-open" >}}
-  {{< card link="docs" title="About" icon="book-open" >}}
+  {{< card link="Teaching" title="Teaching" icon="book-open" >}}
+  {{< card link="about" title="About" icon="book-open" >}}
 {{< /cards >}}
