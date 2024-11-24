@@ -48,13 +48,13 @@ In this lecture, we cover prerequisites of GGT, including:
 
 ## References
 
-### Reading (For GGT)
-1. [M. Clay, D. Margalit, *Office Hours with a Geometric Group Theorist*](./documents/Matt%20Clay,%20Dan%20Margalit.pdf)
-2. [C. Löh, *Geometric Group Theory*](./documents/Clara%20Löh.pdf)
+### Reading (For Geometric Group Theory)
+1. [M. Clay, D. Margalit, *Office Hours with a Geometric Group Theorist*](./documents/OHGGT.pdf)
+2. [C. Löh, *Geometric Group Theory*](./documents/clara.pdf)
 
 ### Further Reading (For Basic Group Theory)
-1. [D. S. Dummit, R. M. Foote, *Abstract Algebra*](./documents/Dummit%20and%20Foote.pdf)
-2. [J. J. Rotman, *An Introduction to the Theory of Groups*](./documents/Rotman.pdf)
+1. [D. S. Dummit, R. M. Foote, *Abstract Algebra*](./documents/Dummit.pdf)
+2. [J. J. Rotman, *An Introduction to the Theory of Groups*](./documents/rotman.pdf)
 <br>
 
 ---
