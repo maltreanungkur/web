@@ -18,26 +18,21 @@ Our goal with this approach is to encourage you to engage with the material acti
 
 You’ll find all the lecture notes and problem sets on this website. If you miss a lecture, don’t worry—we’ll keep everything updated here so you can catch up.
 
----
-
 ## Timeline
 
 ### 0. Introductory Talk
 
-**Date**: October 19, 2024. 
-**Speaker**: Rinkiny Ghatak, Treanungkur Mal 
+**Date**: October 19, 2024. <br>
+**Speaker**: Rinkiny Ghatak and Treanungkur Mal. <br>
 
 Rinkiny began by briefly introducing the definition of a group and providing some examples. She then defined free groups and explored the structure of Cayley graphs, including how the Cayley graph of a free group looks-like. Additionally, she introduced the concept of group presentations, concluding her talk with the group presentation of the well-known Lamplighter Group.
 
 Whereas, I aimed to demonstrate how one can understand a complex group presentation, such as that of the Lamplighter Group, by using the analogy of street lamps. Interestingly, the seemingly intricate presentation boils down to switching finitely many lamps on an infinite street comprising infinitely many lamps. I also provided a brief definition of a group action, as this concept will be central to our study moving forward.
----
 
 ### 1. Basics of Group Theory
 
-**Date**: November 25, 2024.
-**Speakers**: Rinkiny Ghatak 
-
-Notes by me (LaTeXed): [Prerequisites](./notes/prereq.pdf).
+**Date**: November 25, 2024.<br>
+**Speakers**: Rinkiny Ghatak. <br>
 
 In this lecture, we cover prerequisites of GGT, including:
 - Definition of Group
@@ -48,19 +43,18 @@ In this lecture, we cover prerequisites of GGT, including:
 - 1st Isomorphism Theorem
 - The Correspondence Theorem
 
-**Lecture Notes**:
-**Problem Set**:
-
----
+**Lecture Notes**:<br>
+**Problem Set**:<br>
 
 ## References
 
-### References
+### Reading (For GGT)
 1. [M. Clay, D. Margalit, *Office Hours with a Geometric Group Theorist*](./documents/Matt%20Clay,%20Dan%20Margalit.pdf)
 2. [C. Löh, *Geometric Group Theory*](./documents/Clara%20Löh.pdf)
 
-### Further Reading (Group Theory)
+### Further Reading (For Basic Group Theory)
 1. [D. S. Dummit, R. M. Foote, *Abstract Algebra*](./documents/Dummit%20and%20Foote.pdf)
 2. [J. J. Rotman, *An Introduction to the Theory of Groups*](./documents/Rotman.pdf)
+<br>
 
 ---
