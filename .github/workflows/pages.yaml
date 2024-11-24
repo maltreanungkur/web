@@ -57,7 +57,7 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "https://maltreanungkur.github.io/"
+            --baseURL "https://maltreanungkur.github.io/web/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
