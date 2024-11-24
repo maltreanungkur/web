@@ -45,8 +45,8 @@ In this lecture, we cover prerequisites of GGT, including:
 - 1st Isomorphism Theorem
 - The Correspondence Theorem
 
-**Lecture Notes**:<br>
-**Problem Set**:<br>
+**Lecture Notes**: <br>
+**Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf) <br>
 
 ## References
 
