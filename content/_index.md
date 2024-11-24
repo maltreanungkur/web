@@ -10,6 +10,6 @@ If you're in the Geomteric Group Theory (GGT) UDGRP, you can find all the lectur
 ## Explore
 
 {{< cards >}}
-  {{< card link="Teaching" title="Teaching" icon="book-open" >}}
+  {{< card link="teaching" title="Teaching" icon="book-open" >}}
   {{< card link="about" title="About" icon="book-open" >}}
 {{< /cards >}}
