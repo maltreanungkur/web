@@ -55,7 +55,7 @@ In this lecture, we cover prerequisites of GGT, including:
 2. [C. Löh, *Geometric Group Theory*](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/clara.pdf)
 
 ### Further Reading (For Basic Group Theory)
-1. [D. S. Dummit, R. M. Foote, *Abstract Algebra*](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/dumit.pdf)
+1. [D. S. Dummit, R. M. Foote, *Abstract Algebra*](https://rksmvv.ac.in/wp-content/uploads/2021/04/David_S_Dummit_Richard_M_Foote_Abstract_Algeb_230928_225848.pdf)
 2. [J. J. Rotman, *An Introduction to the Theory of Groups*](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/rotman.pdf)
 <br>
 
