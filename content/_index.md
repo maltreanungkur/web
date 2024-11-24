@@ -1,5 +1,5 @@
 ---
-title: WelKome :)
+title: Wel-Kome :)
 toc: false
 ---
 
