@@ -10,7 +10,7 @@ sidebar:
 math: true
 ---
 <br>
-Welcome to the Undergraduate Directed Group Reading Program (UDGRP) 2024! This year, we will explore **Geometric Group Theory (GGT)**. 
+Welcome to the Undergraduate Directed Group Reading Program (UDGRP) 2024! This year, we will explore Geometric Group Theory (GGT). 
 
 In the initial lectures, we’ll review basic group theory concepts and provide problem sets periodically. Please make a sincere effort to solve them, as this practice will prove invaluable in the long run. If you have any doubts, feel free to reach out to any of the instructors—we’re here to help!
 
