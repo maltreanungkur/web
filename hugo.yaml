@@ -31,18 +31,6 @@ menu:
       weight: 4
       params:
         type: search
-    - name: Telegram
-  weight: 5
-  url: "https://t.me/TreanungkurMal"
-  params:
-    icon: telegram
-
-- name: WhatsApp
-  weight: 6
-  url: "https://wa.me/918918517265"
-  params:
-    icon: whatsapp
-
 
 params:
   navbar:
