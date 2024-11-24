@@ -1,8 +1,8 @@
 ---
 title: Folder
-type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+type: Teaching
+prev: Teaching/first-page
+next: Teaching/folder/leaf
 sidebar:
   open: true
 ---
