@@ -1,7 +1,7 @@
 ---
-title: Leaf Page
+title: Problem Sets
 type: docs
-prev: docs/folder/
+prev: teaching/UDGRP
 ---
 
 This page is under a folder.

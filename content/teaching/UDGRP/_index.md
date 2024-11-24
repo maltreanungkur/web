@@ -1,8 +1,8 @@
 ---
 title: Folder
 type: Teaching
-prev: Teaching/first-page
-next: Teaching/folder/leaf
+prev: Teaching/
+next: Teaching/UDGRP/Problem_Set
 sidebar:
   open: true
 ---
