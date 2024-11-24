@@ -24,8 +24,8 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      pageRef: /about
+    - name: Contact
+      pageRef: /contact
       weight: 3
     - name: Search
       weight: 4
