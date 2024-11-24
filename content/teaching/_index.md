@@ -1,9 +1,9 @@
 ---
-title: Documentation
+title: Teaching
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+Currently, I am taking this UGDRP on GGT,so if you are a part of this you can find all the lecture notes and 
 
 ## Hello, World!
 
