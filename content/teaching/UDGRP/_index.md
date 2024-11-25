@@ -45,7 +45,8 @@ In this lecture, Rinkiny will cover the basics of group theory, including:
 - The 1st Isomorphism Theorem
 - The Correspondence Theorem
 
-**Lecture Notes**: <br>
+**Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf)<br>
+
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf) <br>
 
 ## References
