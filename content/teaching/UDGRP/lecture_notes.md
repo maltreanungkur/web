@@ -7,7 +7,7 @@ If you're here just for the lecture notes, we've got you covered! Simply click o
 
 |     Lecture Date      |      Notes    |     Download     |
 |:---------------------:|:---------------------:|:----------------:|
-| 25th Nov 2024 | **Lec - I**     |  Download(https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf)|
+| 25th Nov 2024 | **Lec - I**     |  [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf)|
 | 29th Nov 2024 | **Lec - II**    |   |
 | 2nd Dec 2024 | **Lec - III**   |   |
 | 6th Dec 2024 | **Lec - IV**    |   |
