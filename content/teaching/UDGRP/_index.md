@@ -36,7 +36,7 @@ Whereas I have tried to demonstrate how one can understand a complex group prese
 **Date**: November 25, 2024.<br>
 **Speaker**: Rinkiny Ghatak. <br>
 
-In this lecture, Rinkiny will cover basics of group theory, including:
+In this lecture, Rinkiny will cover the basics of group theory, including:
 - Definition of Group
 - Examples of Group
 - Subgroups
