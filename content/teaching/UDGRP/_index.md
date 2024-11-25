@@ -38,12 +38,13 @@ Whereas I have tried to demonstrate how one can understand a complex group prese
 
 In this lecture, Rinkiny will cover the basics of group theory, including:
 - Definition of Group
-- Examples of Group
+- Examples of Group ($$
 - Subgroups
+- Group Presentations (Generators and Relators)
 - Structure preserving maps in Groups (Homomorphism and Isomorphism)
 - Normal Subgroups and Cosets
+- Kernal and Image of an Homomorphism
 - The 1st Isomorphism Theorem
-- The Correspondence Theorem
 
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf)<br>
 
