@@ -48,6 +48,8 @@ In this lecture, Rinkiny covered the basics of group theory, including:
 
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf)<br>
 
+**Introductory Slides**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/Intro.pdf)<br>
+
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf) <br>
 
 ## References
