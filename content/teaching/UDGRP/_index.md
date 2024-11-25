@@ -36,13 +36,13 @@ Whereas I have tried to demonstrate how one can understand a complex group prese
 **Date**: November 25, 2024.<br>
 **Speaker**: Rinkiny Ghatak. <br>
 
-In this lecture, we cover prerequisites of GGT, including:
+In this lecture, Rinkiny will cover basics of group theory, including:
 - Definition of Group
 - Examples of Group
-- Structure preserving maps in Groups (Homomorphism and Isomorphism)
 - Subgroups
+- Structure preserving maps in Groups (Homomorphism and Isomorphism)
 - Normal Subgroups and Cosets
-- 1st Isomorphism Theorem
+- The 1st Isomorphism Theorem
 - The Correspondence Theorem
 
 **Lecture Notes**: <br>
