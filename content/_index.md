@@ -11,5 +11,5 @@ If you're in the Geomteric Group Theory (GGT) UDGRP, you can find all the lectur
 
 {{< cards >}}
   {{< card link="teaching" title="Teaching" icon="book-open" >}}
-  {{< card link="about" title="About" icon="book-open" >}}
+  {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
