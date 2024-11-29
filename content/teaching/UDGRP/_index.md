@@ -53,7 +53,7 @@ In this lecture, Rinkiny covered the basics of group theory, including:
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf) <br>
 
-**Chocolate Problem's Solution**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/Nikhil.pdf) <br>
+**Chocolate Problem's Solution** (by Nikhil Nagaria): [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/Nikhil.pdf) <br>
 
 **Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Payal Rajora, Ramdas Singh, Sarvesh Soni, Shankha Suvra Dam, V Sai Prabhav.
 
