@@ -73,7 +73,7 @@ In this lecture, I have covered the idea of group action and solved some problem
 - Definition of Orbits and Stabilizer  
 - The Orbit Stabilizer Theorem
 - Cayley's Theorem (Only Statement) 
-- Some examples of group action $\left( \mathrm{SO}(2, \mathbb{R}) \text{acts on} \mathbb{R}^2 \right)$
+- Some examples of group action $\left( \mathrm{SO}(2, \mathbb{R}) \text{ acts on } \mathbb{R}^2 \right)$
 
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec2.pdf)<br>
 
