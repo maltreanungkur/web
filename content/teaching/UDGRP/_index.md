@@ -54,7 +54,7 @@ In this lecture, Rinkiny covered the basics of group theory, including:
 
 **Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Ramdas Singh, Sarvesh Soni, V Sai Prabhav.
 
-### 2. Group Actions and it's Application
+### 2. Group Actions and Their Applications
 
 **Date**: November 29, 2024.<br>
 **Speaker**: Treanungkur Mal. <br>
