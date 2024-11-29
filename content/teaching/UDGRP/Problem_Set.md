@@ -8,7 +8,8 @@ If you're here just for the problem sets, we've got you covered! Simply click on
 |     Lecture Date      |      Problem Set      |     Download     |
 |:---------------------:|:---------------------:|:----------------:|
 | Monday, 25th Nov 2024 | **Problem Set I**     | [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf)    |
-| Friday, 29th Nov 2024 | **Problem Set II**    |   |
+| Friday, 29th Nov 2024 | **Problem Set II**    |  [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P2.pdf) |
+
 | Monday, 2nd Dec 2024 | **Problem Set III**   |   |
 | Friday, 6th Dec 2024 | **Problem Set IV**    |   |
 | Monday, 9th Dec 2024 | **Problem Set V**     |   |
