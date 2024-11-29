@@ -1,5 +1,5 @@
 ---
-title: Lecture Videos
+title: Lecture Notes
 type: docs
 prev: teaching/UDGRP
 ---
