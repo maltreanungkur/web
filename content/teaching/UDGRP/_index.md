@@ -70,8 +70,8 @@ In this lecture, I have covered the idea of group action and solved some problem
 - The Orbit Stabilizer Theorem  
 - Induced Homomorphism  
 - Cayley's Theorem  
-- Some examples of action ($\mathrm{SO}(2, \mathbb{R}) \acts \mathbb{R}^2$) 
-- Action of $S_n$ on $\mathbb{R}^2$
+- Some examples of action $\left( \mathrm{SO}(2, \mathbb{R}) acts on \mathbb{R}^2 \right)$
+- Action of $S_n$ on $\mathbb{R}^n$
 
 **Lecture Notes**: <br>
 
