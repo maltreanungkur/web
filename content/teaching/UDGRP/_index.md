@@ -5,6 +5,7 @@ prev: Teaching/
 next:
   - Teaching/UDGRP/Problem_Set
   - Teaching/UDGRP/lecture_notes
+  - Teaching/UDGRP/Lec_Vids
 sidebar:
   open: true
 math: true
