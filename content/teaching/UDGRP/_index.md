@@ -52,6 +52,32 @@ In this lecture, Rinkiny covered the basics of group theory, including:
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf) <br>
 
+**Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Ramdas Singh, Sarvesh Soni, V Sai Prabhav.
+
+### 2. Group Actions and it's Application
+
+**Date**: November 29, 2024.<br>
+**Speaker**: Treanungkur Mal. <br>
+
+In this lecture, I have covered the idea of group action and solved some problems using group action, including:  
+
+- Recap of Previous Class  
+- Idea of Quotienting Groups  
+- Applications of the 1st Isomorphism Theorem  
+- Definition of Group Action  
+- Some Valid Group Actions  
+- Definition of Orbits and Stabilizer  
+- The Orbit Stabilizer Theorem  
+- Induced Homomorphism  
+- Cayley's Theorem  
+- Some examples of action (\( \mathrm{SO}(2, \mathbb{R}) \acts \mathbb{R}^2 \))  
+- Action of \( S_n \) on \( \mathbb{R}^2 \)  
+
+**Lecture Notes**: <br>
+
+**Problem Set**: <br>
+
+
 ## References
 
 ### Reading (For Geometric Group Theory)
