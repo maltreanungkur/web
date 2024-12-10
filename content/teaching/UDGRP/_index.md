@@ -83,7 +83,7 @@ In this lecture, I have covered the idea of group action and solved some problem
 
 **Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, V Sai Prabhav.
 
-### 3. 
+### 3. Introduction to GGT
 
 **Date**: December 6, 2024.<br>
 **Speaker**: Treanungkur Mal. <br>
@@ -94,7 +94,7 @@ In this lecture, we covered the following topics and proved some theorems includ
 - Generating sets of a group and group presentations  
 - Cayley graphs  
 - Free groups  
-- Group Action on Trees $\left( Action of \( F_2 \) on \( \Gamma(G, S) \) \right)$
+- Group Action on Trees $\left( \text{Action of}  \mathbb{F}_2 \text{ on } \Gamma(G, S) \) \right)$
 - Review of group actions and the induced homomorphism  
 - Types of group actions, focusing on isometric actions on metric spaces  
 - A theorem on isometric group actions on $\mathbb{R}^n$
