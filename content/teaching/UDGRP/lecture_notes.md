@@ -9,9 +9,8 @@ If you're here just for the lecture notes, we've got you covered! Simply click o
 |:---------------------:|:---------------------:|:----------------:|
 | 25th Nov 2024 | **Lec - I**     |  [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf)|
 | 29th Nov 2024 | **Lec - II**    |  [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec2.pdf) |
-| 2nd Dec 2024 | **Lec - III**   | ---- |
-| 6th Dec 2024 | **Lec - IV**    |  [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf)  |
-| 9th Dec 2024 | **Lec - V**     |   |
-| 13th Dec 2024 | **Lec - VI**    |   |
-| 16th Dec 2024 | **Lec - VII**   |   |
-| 20th Dec 2024 | **Lec - VIII**  |   |
+| 6th Dec 2024  | **Lec - III**   |  [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf)  |
+| 9th Dec 2024  | **Lec - IV**    |   |
+| 13th Dec 2024 | **Lec - V**     |   |
+| 16th Dec 2024 | **Lec - VI**    |   |
+| 20th Dec 2024 | **Lec - VII**   |   |
