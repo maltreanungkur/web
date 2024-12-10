@@ -9,8 +9,8 @@ If you're here just for the problem sets, we've got you covered! Simply click on
 |:---------------------:|:---------------------:|:----------------:|
 | Monday, 25th Nov 2024 | **Problem Set I**     | [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf)    |
 | Friday, 29th Nov 2024 | **Problem Set II**    |  [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P2.pdf) |
-| Monday, 2nd Dec 2024 | **Problem Set III**   |   |
-| Friday, 6th Dec 2024 | **Problem Set IV**    |   |
+| Monday, 2nd Dec 2024 | **Problem Set III**   |  --- |
+| Friday, 6th Dec 2024 | **Problem Set IV**    |  [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P3.pdf) |
 | Monday, 9th Dec 2024 | **Problem Set V**     |   |
 | Friday, 13th Dec 2024 | **Problem Set VI**    |   |
 | Monday, 16th Dec 2024 | **Problem Set VII**   |   |
