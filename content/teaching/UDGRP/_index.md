@@ -79,6 +79,31 @@ In this lecture, I have covered the idea of group action and solved some problem
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P2.pdf) <br>
 
+**Chocolate Problem's Solution** (by Sai Prabhav): [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/SaiP.pdf) <br>
+
+**Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, V Sai Prabhav.
+
+### 3. 
+
+**Date**: December 6, 2024.<br>
+**Speaker**: Treanungkur Mal. <br>
+
+In this lecture, we covered the following topics and proved some theorems including:  
+
+- Basic notions of graph theory  
+- Generating sets of a group and group presentations  
+- Cayley graphs  
+- Free groups  
+- Group Action on Trees $\left( Action of \( F_2 \) on \( \Gamma(G, S) \) \right)$
+- Review of group actions and the induced homomorphism  
+- Types of group actions, focusing on isometric actions on metric spaces  
+- A theorem on isometric group actions on $\mathbb{R}^n$
+- Brief Idea for the proof of Nielsen–Schreier Theorem.
+  
+**Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf)<br>
+
+**Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P3.pdf) <br>
+
 ## References
 
 ### Reading (For Geometric Group Theory)
