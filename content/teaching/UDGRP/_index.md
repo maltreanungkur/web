@@ -55,7 +55,7 @@ In this lecture, Rinkiny covered the basics of group theory, including:
 
 **Chocolate Problem's Solution** (by Nikhil Nagaria): [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/Nikhil.pdf) <br>
 
-**Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Payal Rajora, Ramdas Singh, Sarvesh Soni, Shankha Suvra Dam, V Sai Prabhav.
+**Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Payal Rajora, Ramdas Singh, Sai Prabhav, Sarvesh Soni, Shankha Suvra Dam.
 
 ### 2. Group Actions and Their Applications
 
@@ -81,7 +81,7 @@ In this lecture, I have covered the idea of group action and solved some problem
 
 **Chocolate Problem's Solution** (by Sai Prabhav): [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/SaiP.pdf) <br>
 
-**Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, V Sai Prabhav.
+**Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Sai Prabhav, Sarvesh Soni.
 
 ### 3. Introduction to GGT
 
@@ -92,12 +92,12 @@ In this lecture, we covered the following topics and proved some theorems includ
 
 - Basic notions of graph theory  
 - Generating sets of a group and group presentations  
-- Cayley graphs  
-- Free groups  
-- Group Action on Trees $\left( \text{Action of }  \mathbb{F}_2 \text{ on } \Gamma(G, S) \) \right)$
+- Cayley graphs with respect to generating sets
+- Definition of Free groups  
+- Group Action on Trees $\left(\mathbb{F}_2 \text{ acts on } \Gamma(G, S) \right)$
 - Review of group actions and the induced homomorphism  
 - Types of group actions, focusing on isometric actions on metric spaces  
-- A theorem on isometric group actions on $\mathbb{R}^n$
+- Isometric and free group actions on $\mathbb{R}^n$ $\implies$ torsion-free.
 - Brief Idea for the proof of Nielsen–Schreier Theorem.
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf)<br>
