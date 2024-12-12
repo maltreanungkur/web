@@ -113,7 +113,7 @@ In this lecture, Rinkiny covered the following topics:
 
 - Recalled the idea of the proof of Nielsen–Schreier Theorem
 - Basic notions of metric spaces
-- Path Metric on Cayley graphs
+- Path Metric on Groups
 - Motivation and Definition of Quasi-Isometry
 - Some Basic Examples and Proposition related to Quasi-Isometry
 - Proof that $\mathbb{R} \text{ and } \mathbb{Z}$ are quasi isometric
