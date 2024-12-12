@@ -97,12 +97,30 @@ In this lecture, we covered the following topics and proved some theorems includ
 - Group Action on Trees $\left(\mathbb{F}_2 \text{ acts on } \Gamma(G, S) \right)$
 - Review of group actions and the induced homomorphism  
 - Types of group actions, focusing on isometric actions on metric spaces  
-- Isometric and free group actions on $\mathbb{R}^n$ $\implies$ torsion-free.
-- Brief Idea for the proof of Nielsen–Schreier Theorem.
+- Isometric and free group actions on $\mathbb{R}^n$ $\implies$ torsion-free
+- Brief Idea for the proof of Nielsen–Schreier Theorem
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf)<br>
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P3.pdf) <br>
+
+### 4. Quasi-Isometry in GGT
+
+**Date**: December 12, 2024.<br>
+**Speaker**: Rinkiny Ghatak. <br>
+
+In this lecture, Rinkiny covered the following topics:  
+
+- Recalled the idea of the proof of Nielsen–Schreier Theorem
+- Basic notions of metric spaces
+- Path Metric on Cayley graphs
+- Motivation and Definition of Quasi-Isometry
+- Some Basic Examples and Proposition related to Quasi-Isometry
+- Proof that $\mathbb{R} \text{ and } \mathbb{Z}$ are quasi isometric
+  
+**Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec4.pdf)<br>
+
+**Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P4.pdf) <br>
 
 ## References
 
