@@ -116,7 +116,7 @@ In this lecture, Rinkiny covered the following topics:
 - Path Metric on Groups
 - Motivation and Definition of Quasi-Isometry
 - Some Basic Examples and Proposition related to Quasi-Isometry
-- Proof that $\mathbb{R} \text{ and } \mathbb{Z}$ are quasi isometric
+- Proof that $\mathbb{R}$ and $\mathbb{Z}$ are quasi isometric
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec4.pdf)<br>
 
