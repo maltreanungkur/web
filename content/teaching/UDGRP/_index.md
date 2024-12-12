@@ -88,7 +88,7 @@ In this lecture, I have covered the idea of group action and solved some problem
 **Date**: December 6, 2024.<br>
 **Speaker**: Treanungkur Mal. <br>
 
-In this lecture, we covered the following topics and proved some theorems including:  
+In this lecture, I covered the following topics and proved some theorems including:  
 
 - Basic notions of graph theory  
 - Generating sets of a group and group presentations  
@@ -116,7 +116,7 @@ In this lecture, Rinkiny covered the following topics:
 - Path Metric on Groups
 - Motivation and Definition of Quasi-Isometry
 - Some Basic Examples and Proposition related to Quasi-Isometry
-- Proof that $\mathbb{R}$ and $\mathbb{Z}$ are quasi isometric
+- Proof of $\mathbb{R}$ and $\mathbb{Z}$ being quasi isometric
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec4.pdf)<br>
 
