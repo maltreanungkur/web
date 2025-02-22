@@ -145,7 +145,7 @@ In this lecture, I did some problem solving on group actions and discussed some 
 
 In this lecture, Rinkiny covered the following topics:  
 
-- Defined QI(X) and proved that it forms the ``Quasi-isometry'' group
+- Defined QI(X) and proved that it forms the "Quasi-isometry" group
 - Proved quasi-isometry of groups with different generating sets and related results  
 - Discussed relevant examples and additional properties  
 - Established the definition, examples, and equivalence of growth functions  
@@ -154,7 +154,7 @@ In this lecture, Rinkiny covered the following topics:
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P6.pdf) <br>
 
-### 7. Free Groups and the ``Nielsen–Schreier Theorem''
+### 7. Free Groups and the "Nielsen–Schreier Theorem"
 
 **Date**: December 20, 2024.<br>
 **Speaker**: Treanungkur Mal. <br>
@@ -162,11 +162,11 @@ In this lecture, Rinkiny covered the following topics:
 In this lecture, I covered the following topics:  
 
 - Group presentations, relators, and generators  
-- Some discussion on the infamous ``Andrew–Curtis Conjecture'' 
+- Some discussion on the infamous "Andrew–Curtis Conjecture" 
 - Barycentric subdivision of cayley graph of a group  
 - Tiling the Cayley graph of a given group  
-- Finding a ``nice'' tiling for \(\mathbb{F}_2\) (also discussed how to handle the general case!)
-- Proving the ``Nielsen–Schreier Theorem'' using group action on trees  
+- Finding a "nice" tiling for \(\mathbb{F}_2\) (also discussed how to handle the general case!)
+- Proving the "Nielsen–Schreier Theorem" using group action on trees  
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec7.pdf)<br>
 
