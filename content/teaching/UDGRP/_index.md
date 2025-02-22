@@ -191,14 +191,50 @@ In this lecture, Rinkiny covered the following topics:
 
 As part of the final stage of the UDGRP program, students were given the opportunity to present on the following topics:  
 
-- **Farey Tree** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 3.  
-- **Ping Pong Lemma and Applications** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 5.  
+- **The Farey Tree** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 3.  
+- **Ping Pong Lemma and its applications** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 5.  
   - Additional references:  
     1. [The Ping Pong Lemma](https://capsncrunch.github.io/articles/the_ping_pong_lemma.html)  
     2. [An Elementary Application of the Ping Pong Lemma](https://chiasme.wordpress.com/2015/03/08/an-elementary-application-of-ping-pong-lemma/)  
-- **Lamplighter Groups** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 15.  
-- **Ends of Groups** – Refer to *Metric Spaces of Non-Positive Curvature* by Martin R. Bridson and André Haefliger, Pages 142–148.  
-- **Hyperbolic Plane** – Refer to *Low-Dimensional Geometry* by Francis Bonahon, Chapter 2.  
+- **Lamplighter Group** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 15.  
+- **Ends of Group** – Refer to *Metric Spaces of Non-Positive Curvature* by Martin R. Bridson and André Haefliger, Pages 142–148.  
+- **The Hyperbolic Plane** – Refer to *Low-Dimensional Geometry* by Francis Bonahon, Chapter 2.  
+
+## Student Presentations
+
+### 1. Presentation of \( PSL(2,\mathbb{Z}) \) and \( SL(2,\mathbb{Z}) \)
+
+**Date**: December 31, 2024.<br>
+**Speaker**: Arkaprovo Das. <br>
+
+In this session, Arkaprovo Das, from BMath 1st Year presented the following topics:  
+  
+- Discussed the presentation of \( PSL(2,\mathbb{Z}) \) and \( SL(2,\mathbb{Z}) \).  
+- Explained the action of \( SL_2(\mathbb{Z}) \) on the Farey Graph.  
+- Constructed the Farey Graph and its relation to modular transformations.
+
+### 2. Group Action on Farey Tree
+
+**Date**: December 31, 2024.<br>
+**Speaker**: V Sai Prabhav. <br>
+
+In this session, V Sai Prabhav, from BMath 1st Year presented the following topics:  
+
+- Defined the Farey Graph.  
+- Discussed the action of SL$_2(\mathbb{Z})$ on the Farey Graph.  
+- Constructed the Farey Graph.  
+- Defined the Farey Tree using the Farey Complex.
+
+### 3. Ping Pong Lemma and its Application
+
+**Date**: January 4, 2025.<br>
+**Speaker**: Sayan Dewan. <br>
+
+In this session, Sayan Dewan, from BMath 1st Year presented the following topics:  
+
+- Stated the Ping Pong Lemma.  
+- Proved the lemma.  
+- Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z} $, $ \mathbb{Z} * \mathbb{Z} $, and $ SL_2(\mathbb{Z}) $.  
 
 ## References
 
