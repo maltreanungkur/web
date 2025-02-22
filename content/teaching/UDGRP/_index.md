@@ -202,7 +202,7 @@ As part of the final stage of the UDGRP program, students were given the opportu
 
 ## Student Presentations
 
-### 1. Presentation of \( PSL(2,\mathbb{Z}) \) and \( SL(2,\mathbb{Z}) \)
+### 1. Presentation of  PSL(2,$\left(\mathbb{Z})  and \( SL(2,\mathbb{Z}) \)
 
 **Date**: December 31, 2024.<br>
 **Speaker**: Arkaprovo Das. <br>
@@ -221,7 +221,7 @@ In this session, Arkaprovo Das, from BMath 1st Year presented the following topi
 In this session, V Sai Prabhav, from BMath 1st Year presented the following topics:  
 
 - Defined the Farey Graph.  
-- Discussed the action of $SL_2(\mathbb{Z})$ on the Farey Graph.  
+- Discussed the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.  
 - Constructed the Farey Graph.  
 - Defined the Farey Tree using the Farey Complex.
 
