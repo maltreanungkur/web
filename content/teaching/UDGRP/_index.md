@@ -122,6 +122,84 @@ In this lecture, Rinkiny covered the following topics:
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P4.pdf) <br>
 
+### 5. Problem Solving Session (PSS)
+
+**Date**: December 13, 2024.<br>
+**Speaker**: Treanungkur Mal. <br>
+
+In this lecture, I did some problem solving on group actions and discussed some ideas frequently used:
+
+- Identifying different quotient groups intuitively  
+- Formalizing different quotienting ideas using Isomorphism Theorems  
+- Quotienting on $\mathbb{R}^2$, while seeing it as a two-dimensional vector space   
+- Some examples of proofs based on group actions like: Cayley's Theorem, Group Action on Automorphsim Groups of Certain Cayley Graphs, etc.
+  
+**Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec5.pdf)<br>
+
+**Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P5.pdf) <br>
+
+### 6. Quasi-Isometry and Growth Functions
+
+**Date**: December 16, 2024.<br>
+**Speaker**: Rinkiny Ghatak. <br>
+
+In this lecture, Rinkiny covered the following topics:  
+
+- Defined QI(X) and proved that it forms the ``Quasi-isometry'' group
+- Proved quasi-isometry of groups with different generating sets and related results  
+- Discussed relevant examples and additional properties  
+- Established the definition, examples, and equivalence of growth functions  
+  
+**Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec6.pdf)<br>
+
+**Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P6.pdf) <br>
+
+### 7. Free Groups and the ``Nielsen–Schreier Theorem''
+
+**Date**: December 20, 2024.<br>
+**Speaker**: Treanungkur Mal. <br>
+
+In this lecture, I covered the following topics:  
+
+- Group presentations, relators, and generators  
+- Some discussion on the infamous ``Andrew–Curtis Conjecture'' 
+- Barycentric subdivision of cayley graph of a group  
+- Tiling the Cayley graph of a given group  
+- Finding a ``nice'' tiling for \(\mathbb{F}_2\) (also discussed how to handle the general case!)
+- Proving the ``Nielsen–Schreier Theorem'' using group action on trees  
+  
+**Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec7.pdf)<br>
+
+**Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P7.pdf) <br>
+
+### 8. Quasi-Isometric Embedding of Groups
+
+**Date**: December 23, 2024.<br>
+**Speaker**: Rinkiny Ghatak. <br>
+
+In this lecture, Rinkiny covered the following topics:  
+
+- Basics of growth functions 
+- Quasi-isometric embedding of groups   
+- Briefing on the end of UDGRP presentation topics 
+  
+**Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec8.pdf)<br>
+
+**Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P8.pdf) <br>
+
+## End of UDGRP Program: Student Presentation Topics  
+
+As part of the final stage of the UDGRP program, students were given the opportunity to present on the following topics:  
+
+- **Farey Tree** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 3.  
+- **Ping Pong Lemma and Applications** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 5.  
+  - Additional references:  
+    - [The Ping Pong Lemma](https://capsncrunch.github.io/articles/the_ping_pong_lemma.html)  
+    - [An Elementary Application of the Ping Pong Lemma](https://chiasme.wordpress.com/2015/03/08/an-elementary-application-of-ping-pong-lemma/)  
+- **Lamplighter Groups** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 15.  
+- **Ends of Groups** – Refer to *Metric Spaces of Non-Positive Curvature* by Martin R. Bridson and André Haefliger, Pages 142–148.  
+- **Hyperbolic Plane** – Refer to *Low-Dimensional Geometry* by Francis Bonahon, Chapter 2.  
+
 ## References
 
 ### Reading (For Geometric Group Theory)
