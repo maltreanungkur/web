@@ -221,7 +221,7 @@ In this session, Arkaprovo Das, from BMath 1st Year presented the following topi
 In this session, V Sai Prabhav, from BMath 1st Year presented the following topics:  
 
 - Defined the Farey Graph.  
-- Discussed the action of SL$_2(\mathbb{Z})$ on the Farey Graph.  
+- Discussed the action of $SL_2(\mathbb{Z})$ on the Farey Graph.  
 - Constructed the Farey Graph.  
 - Defined the Farey Tree using the Farey Complex.
 
@@ -234,7 +234,7 @@ In this session, Sayan Dewan, from BMath 1st Year presented the following topics
 
 - Stated the Ping Pong Lemma.  
 - Proved the lemma.  
-- Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z} $, $ \mathbb{Z} * \mathbb{Z} $, and $ SL_2(\mathbb{Z}) $.  
+- Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, and SL_2(\mathbb{Z}) $.  
 
 ## References
 
