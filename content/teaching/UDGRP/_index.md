@@ -234,7 +234,7 @@ In this session, Sayan Dewan, from BMath 1st Year presented the following topics
 
 - Stated the Ping Pong Lemma.  
 - Proved the lemma.  
-- Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text { and } SL_2(\mathbb{Z}) $.  
+- Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_n(\mathbb{Z}) $.  
 
 ## References
 
