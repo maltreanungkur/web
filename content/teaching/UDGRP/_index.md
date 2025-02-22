@@ -194,8 +194,8 @@ As part of the final stage of the UDGRP program, students were given the opportu
 - **Farey Tree** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 3.  
 - **Ping Pong Lemma and Applications** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 5.  
   - Additional references:  
-    - [The Ping Pong Lemma](https://capsncrunch.github.io/articles/the_ping_pong_lemma.html)  
-    - [An Elementary Application of the Ping Pong Lemma](https://chiasme.wordpress.com/2015/03/08/an-elementary-application-of-ping-pong-lemma/)  
+    1. [The Ping Pong Lemma](https://capsncrunch.github.io/articles/the_ping_pong_lemma.html)  
+    2. [An Elementary Application of the Ping Pong Lemma](https://chiasme.wordpress.com/2015/03/08/an-elementary-application-of-ping-pong-lemma/)  
 - **Lamplighter Groups** – Refer to *Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 15.  
 - **Ends of Groups** – Refer to *Metric Spaces of Non-Positive Curvature* by Martin R. Bridson and André Haefliger, Pages 142–148.  
 - **Hyperbolic Plane** – Refer to *Low-Dimensional Geometry* by Francis Bonahon, Chapter 2.  
