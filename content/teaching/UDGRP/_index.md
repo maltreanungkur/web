@@ -187,7 +187,7 @@ In this lecture, Rinkiny covered the following topics:
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P8.pdf) <br>
 
-## End of UDGRP Program: Student Presentation Topics  
+## End of UDGRP: Presentation Topics  
 
 As part of the final stage of the UDGRP program, students were given the opportunity to present on the following topics:  
 
