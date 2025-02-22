@@ -209,9 +209,9 @@ As part of the final stage of the UDGRP program, students were given the opportu
 
 In this session, Arkaprovo Das, from BMath 1st Year presented the following topics:  
   
-- Discussed the presentation of \( PSL(2,\mathbb{Z}) \) and \( SL(2,\mathbb{Z}) \).  
-- Explained the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.  
-- Constructed the Farey Graph and its relation to modular transformations.
+- Discussed the presentation of $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$ 
+- Explained the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph  
+- Constructed the Farey Graph and its relation to modular transformations
 
 ### 2. Group Action on Farey Tree
 
@@ -221,9 +221,9 @@ In this session, Arkaprovo Das, from BMath 1st Year presented the following topi
 In this session, V Sai Prabhav, from BMath 1st Year presented the following topics:  
 
 - Defined the Farey Graph.  
-- Discussed the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.  
-- Constructed the Farey Graph.  
-- Defined the Farey Tree using the Farey Complex.
+- Discussed the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph
+- Constructed the Farey Graph
+- Defined the Farey Tree using the Farey Complex
 
 ### 3. Ping Pong Lemma and its Application
 
@@ -232,9 +232,9 @@ In this session, V Sai Prabhav, from BMath 1st Year presented the following topi
 
 In this session, Sayan Dewan, from BMath 1st Year presented the following topics:  
 
-- Stated the Ping Pong Lemma.  
-- Proved the lemma.  
-- Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_n(\mathbb{Z}) $.  
+- Stated the Ping Pong Lemma
+- Proved the lemma
+- Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_2(\mathbb{Z}) $
 
 ## References
 
