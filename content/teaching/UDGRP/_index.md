@@ -165,7 +165,7 @@ In this lecture, I covered the following topics:
 - Some discussion on the Andrew–Curtis Conjecture 
 - Barycentric subdivision of cayley graph of a group  
 - Tiling the Cayley graph of a given group  
-- Finding a "nice" tiling for $\(\mathbb{F}_2\)$ (also discussed how to handle the general case!)
+- Finding a "nice" tiling for $\mathbb{F}_2$ (also discussed how to handle the general case!)
 - Proving the Nielsen–Schreier Theorem using group action on trees  
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec7.pdf)<br>
