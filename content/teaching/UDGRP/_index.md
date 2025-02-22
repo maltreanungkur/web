@@ -202,7 +202,7 @@ As part of the final stage of the UDGRP program, students were given the opportu
 
 ## Student Presentations
 
-### 1. Presentation of  $\text{PSL}_2\mathbb{Z})  \text{ and}  \text{SL}_2(\mathbb{Z})$
+### 1. Presentation of  $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$
 
 **Date**: December 31, 2024.<br>
 **Speaker**: Arkaprovo Das. <br>
