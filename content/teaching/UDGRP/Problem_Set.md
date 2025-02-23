@@ -3,7 +3,7 @@ title: Problem Sets
 type: docs
 prev: teaching/UDGRP
 ---
-If you're here just for the problem sets, we've got you covered! Simply click on the download button.
+You can access the problem sets that were set out every day, right after the class in the UDGRP.
 
 |     Lecture Date      |      Problem Set      |     Download     |
 |:---------------------:|:---------------------:|:----------------:|
