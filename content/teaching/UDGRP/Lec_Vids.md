@@ -13,5 +13,5 @@ You can access the recorded lectures of all the classes conducted in the UDGRP.
 | 12th Dec 2024  | **Lecture IV**    |  [View](https://drive.google.com/file/d/1l94EGwxxLWOdbs-V2hoBAZ6g906iHypS/view?usp=sharing)|
 | 13th Dec 2024 | **Lecture V**     |   |
 | 16th Dec 2024 | **Lecture VI**    |   |
-| 20th Dec 2024 | **Lecture VII**   |   |
+| 20th Dec 2024 | **Lecture VII**   | [View](https://drive.google.com/file/d/1YBqTe-ti4BcFMRfwXfJ3bmSPuVSqMRyn/view?usp=sharing) |
 | 23rd Dec 2024 | **Lecture VIII**   |   |
