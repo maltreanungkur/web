@@ -213,6 +213,8 @@ In this session, Arkaprovo Das, from BMath 1st Year presented the following topi
 - Explained the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.  
 - Constructed the Farey Graph and its relation to modular transformations.
 
+**Presentation Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes1.pdf)<br>
+
 ### 2. Group Action on Farey Tree
 
 **Date**: December 31, 2024.<br>
@@ -225,6 +227,8 @@ In this session, V Sai Prabhav, from BMath 1st Year presented the following topi
 - Constructed the Farey Graph.
 - Defined the Farey Tree using the Farey Complex.
 
+**Presentation Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes2.pdf)<br>
+
 ### 3. Ping Pong Lemma and its Application
 
 **Date**: January 4, 2025.<br>
@@ -236,6 +240,8 @@ In this session, Sayan Dewan, from BMath 1st Year presented the following topics
 - Proved the lemma.
 - Application of the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_2(\mathbb{Z}) $.
 
+**Presentation Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes3.pdf)<br>
+
 ### 4. Ends of Group
 
 **Date**: January 15, 2025.<br>
@@ -246,7 +252,10 @@ In this session, Nikhil Nagaria, from BMath 3rd Year, presented the following to
 - Defining rays on a metric space, equivalence of rays.  
 - Proving $\mathbb{R}$ has two ends.  
 - Quasi-isometric proper and geodesic metric spaces have isomorphic ends.  
-- Discussed amalgamated products and some theorems related to these topics. 
+- Discussed amalgamated products and some theorems related to these topics.
+
+**Presentation Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes4.pdf)<br>
+**Presentation Scribbles**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes4(a).pdf)<br>
   
 ## References
 
