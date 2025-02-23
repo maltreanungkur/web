@@ -14,4 +14,4 @@ You can access the problem sets that were set out every day, right after the cla
 | 13th Dec 2024 | **Problem Set V**     |  [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P5.pdf) |
 | 16th Dec 2024 | **Problem Set VI**    | [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P6.pdf)  |
 | 20th Dec 2024 | **Problem Set VII**   | [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P7.pdf)  |
-| 23rd Dec 2024 | **Problem Set VII**   |  [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P8.pdf) |
+| 23rd Dec 2024 | **Problem Set VIII**   |  [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P8.pdf) |
