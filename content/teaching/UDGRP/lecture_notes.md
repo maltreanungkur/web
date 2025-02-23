@@ -3,7 +3,7 @@ title: Lecture Notes
 type: docs
 prev: teaching/UDGRP
 ---
-If you're here just for the lecture notes, we've got you covered! Simply click on the download button.
+You can access the lecture notes of all the classes that we conducted in the UDGRP.
 
 |     Lecture Date      |      Notes    |     Download     |
 |:---------------------:|:---------------------:|:----------------:|
