@@ -38,14 +38,14 @@ Whereas I have tried to demonstrate how one can understand a complex group prese
 **Speaker**: Rinkiny Ghatak. <br>
 
 In this lecture, Rinkiny covered the basics of group theory, including:
-- Definition of Group
-- Examples of Group $\left( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \right)$
-- Subgroups
-- Group Presentations (Generators and Relators)
-- Structure preserving maps in Groups (Homomorphism and Isomorphism)
-- Normal Subgroups and Cosets
-- Kernal and Image of an Homomorphism
-- The 1st Isomorphism Theorem
+- Definition of Group.
+- Examples of Group $\left( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \right)$.
+- Subgroups.
+- Group Presentations (Generators and Relators).
+- Structure preserving maps in Groups (Homomorphism and Isomorphism).
+- Normal Subgroups and Cosets.
+- Kernal and Image of an Homomorphism.
+- The 1st Isomorphism Theorem.
 
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf)<br>
 
@@ -64,16 +64,16 @@ In this lecture, Rinkiny covered the basics of group theory, including:
 
 In this lecture, I have covered the idea of group action and solved some problems using group action, including:  
 
-- Recap of Previous Class  
-- Idea of Quotienting Groups  
-- Applications of the 1st Isomorphism Theorem
-- Motivation for Group Action
-- Definition of Group Action  
-- Some Valid Group Actions  
-- Definition of Orbits and Stabilizer  
-- The Orbit Stabilizer Theorem
-- Cayley's Theorem (Only Statement) 
-- Some examples of group action $\left( \mathrm{SO}(2, \mathbb{R}) \text{ acts on } \mathbb{R}^2 \right)$
+- Recap of Previous Class.  
+- Idea of Quotienting Groups.
+- Applications of the 1st Isomorphism Theorem.
+- Motivation for Group Action.
+- Definition of Group Action.  
+- Some Valid Group Actions.  
+- Definition of Orbits and Stabilizer.  
+- The Orbit Stabilizer Theorem.
+- Cayley's Theorem (Only Statement).
+- Some examples of group action $\left( \mathrm{SO}(2, \mathbb{R}) \text{ acts on } \mathbb{R}^2 \right)$.
 
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec2.pdf)<br>
 
@@ -90,15 +90,15 @@ In this lecture, I have covered the idea of group action and solved some problem
 
 In this lecture, I covered the following topics and proved some theorems including:  
 
-- Basic notions of graph theory  
-- Generating sets of a group and group presentations  
-- Cayley graphs with respect to generating sets
-- Definition of Free groups  
-- Group Action on Trees $\left(\mathbb{F}_2 \text{ acts on } \Gamma(G, S) \right)$
-- Review of group actions and the induced homomorphism  
-- Types of group actions, focusing on isometric actions on metric spaces  
-- Isometric and free group actions on $\mathbb{R}^n$ $\implies$ torsion-free
-- Brief Idea for the proof of Nielsen–Schreier Theorem
+- Basic notions of graph theory.
+- Generating sets of a group and group presentations.  
+- Cayley graphs with respect to generating sets.
+- Definition of Free groups.  
+- Group Action on Trees $\left(\mathbb{F}_2 \text{ acts on } \Gamma(G, S) \right)$.
+- Review of group actions and the induced homomorphism.  
+- Types of group actions, focusing on isometric actions on metric spaces.  
+- Isometric and free group actions on $\mathbb{R}^n$ $\implies$ torsion-free.
+- Brief Idea for the proof of Nielsen–Schreier Theorem.
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf)<br>
 
@@ -111,12 +111,12 @@ In this lecture, I covered the following topics and proved some theorems includi
 
 In this lecture, Rinkiny covered the following topics:  
 
-- Recalled the idea of the proof of Nielsen–Schreier Theorem
-- Basic notions of metric spaces
-- Path Metric on Groups
-- Motivation and Definition of Quasi-Isometry
-- Some Basic Examples and Proposition related to Quasi-Isometry
-- Proof of $\mathbb{R}$ and $\mathbb{Z}$ being quasi isometric
+- Recalled the idea of the proof of Nielsen–Schreier Theorem.
+- Basic notions of metric spaces.
+- Path Metric on Groups.
+- Motivation and Definition of Quasi-Isometry.
+- Some Basic Examples and Proposition related to Quasi-Isometry.
+- Proof of $\mathbb{R}$ and $\mathbb{Z}$ being quasi isometric.
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec4.pdf)<br>
 
@@ -129,9 +129,9 @@ In this lecture, Rinkiny covered the following topics:
 
 In this lecture, I did some problem solving on group actions and discussed some ideas frequently used:
 
-- Identifying different quotient groups intuitively  
-- Formalizing different quotienting ideas using Isomorphism Theorems  
-- Quotienting on $\mathbb{R}^2$, while seeing it as a two-dimensional vector space   
+- Identifying different quotient groups intuitively.  
+- Formalizing different quotienting ideas using Isomorphism Theorems.  
+- Quotienting on $\mathbb{R}^2$, while seeing it as a two-dimensional vector space.   
 - Some examples of proofs based on group actions like: Cayley's Theorem, Group Action on Automorphsim Groups of Certain Cayley Graphs, etc.
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec5.pdf)<br>
@@ -145,10 +145,10 @@ In this lecture, I did some problem solving on group actions and discussed some 
 
 In this lecture, Rinkiny covered the following topics:  
 
-- Defined QI(X) and proved that it forms the "Quasi-isometry" group
-- Proved quasi-isometry of groups with different generating sets and related results  
-- Discussed relevant examples and additional properties  
-- Established the definition, examples, and equivalence of growth functions  
+- Defined QI(X) and proved that it forms the Quasi-isometry group.
+- Proved quasi-isometry of groups with different generating sets and related results.  
+- Discussed relevant examples and additional properties.  
+- Established the definition, examples, and equivalence of growth functions.  
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec6.pdf)<br>
 
@@ -161,12 +161,12 @@ In this lecture, Rinkiny covered the following topics:
 
 In this lecture, I covered the following topics:  
 
-- Group presentations, relators, and generators  
-- Some discussion on the Andrew–Curtis Conjecture 
-- Barycentric subdivision of cayley graph of a group  
-- Tiling the Cayley graph of a given group  
-- Finding a "nice" tiling for $\mathbb{F}_2$ (also discussed how to handle the general case!)
-- Proving the Nielsen–Schreier Theorem using group action on trees  
+- Group presentations, relators, and generators.  
+- Some discussion on the Andrew–Curtis Conjecture. 
+- Barycentric subdivision of cayley graph of a group.  
+- Tiling the Cayley graph of a given group.  
+- Finding a "nice" tiling for $\mathbb{F}_2$ (also discussed how to handle the general case!).
+- Proving the Nielsen–Schreier Theorem using group action on trees.  
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec7.pdf)<br>
 
@@ -179,9 +179,9 @@ In this lecture, I covered the following topics:
 
 In this lecture, Rinkiny covered the following topics:  
 
-- Basics of growth functions 
-- Quasi-isometric embedding of groups   
-- Briefing on the end of UDGRP presentation topics 
+- Basics of growth functions. 
+- Quasi-isometric embedding of groups.   
+- Briefing on the end of UDGRP presentation topics. 
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec8.pdf)<br>
 
@@ -209,9 +209,9 @@ As part of the final stage of the UDGRP program, students were given the opportu
 
 In this session, Arkaprovo Das, from BMath 1st Year presented the following topics:  
   
-- Discussed the presentation of $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$ 
-- Explained the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph  
-- Constructed the Farey Graph and its relation to modular transformations
+- Discussed the presentation of $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$. 
+- Explained the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.  
+- Constructed the Farey Graph and its relation to modular transformations.
 
 ### 2. Group Action on Farey Tree
 
@@ -221,9 +221,9 @@ In this session, Arkaprovo Das, from BMath 1st Year presented the following topi
 In this session, V Sai Prabhav, from BMath 1st Year presented the following topics:  
 
 - Defined the Farey Graph.  
-- Discussed the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph
-- Constructed the Farey Graph
-- Defined the Farey Tree using the Farey Complex
+- Discussed the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.
+- Constructed the Farey Graph.
+- Defined the Farey Tree using the Farey Complex.
 
 ### 3. Ping Pong Lemma and its Application
 
@@ -232,9 +232,9 @@ In this session, V Sai Prabhav, from BMath 1st Year presented the following topi
 
 In this session, Sayan Dewan, from BMath 1st Year presented the following topics:  
 
-- Stated the Ping Pong Lemma
-- Proved the lemma
-- Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_2(\mathbb{Z}) $
+- Stated the Ping Pong Lemma.
+- Proved the lemma.
+- Application of the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_2(\mathbb{Z}) $.
 
 ### 4. Ends of Group
 
@@ -243,10 +243,10 @@ In this session, Sayan Dewan, from BMath 1st Year presented the following topics
 
 In this session, Nikhil Nagaria, from BMath 3rd Year, presented the following topics:  
 
-- Defining rays on a metric space, equivalence of rays  
-- Proving $\mathbb{R}$ has two ends  
-- Quasi-isometric proper and geodesic metric spaces have isomorphic ends  
-- Discussed amalgamated products and some theorems related to these topics 
+- Defining rays on a metric space, equivalence of rays.  
+- Proving $\mathbb{R}$ has two ends.  
+- Quasi-isometric proper and geodesic metric spaces have isomorphic ends.  
+- Discussed amalgamated products and some theorems related to these topics. 
   
 ## References
 
