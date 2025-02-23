@@ -202,14 +202,14 @@ As part of the final stage of the UDGRP program, students were given the opportu
 
 ## Student Presentations
 
-### 1. Presentation of  $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$
+### 1. Group Presentations of  $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$
 
 **Date**: December 31, 2024.<br>
 **Speaker**: Arkaprovo Das. <br>
 
 In this session, Arkaprovo Das, from BMath 1st Year presented the following topics:  
   
-- Discussed the presentation of $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$. 
+- Group presentations of $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$. 
 - Explained the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.  
 - Constructed the Farey Graph and its relation to modular transformations.
 
