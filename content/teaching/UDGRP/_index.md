@@ -75,6 +75,8 @@ In this lecture, I have covered the idea of group action and solved some problem
 - Cayley's Theorem (Only Statement).
 - Some examples of group action $\left( \mathrm{SO}(2, \mathbb{R}) \text{ acts on } \mathbb{R}^2 \right)$.
 
+**Lecture Video**: [View](https://drive.google.com/file/d/15HMkkSBmOjMMYW94HgiuHWbCY3PVhSSD/view?usp=sharing)<br>
+
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec2.pdf)<br>
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P2.pdf) <br>
@@ -99,7 +101,9 @@ In this lecture, I covered the following topics and proved some theorems includi
 - Types of group actions, focusing on isometric actions on metric spaces.  
 - Isometric and free group actions on $\mathbb{R}^n$ $\implies$ torsion-free.
 - Brief Idea for the proof of Nielsen–Schreier Theorem.
-  
+
+**Lecture Video**: [View](https://drive.google.com/file/d/1kk1QPkq3g1NJeBzjdx2nwxBRt253eypG/view?usp=sharing)<br>
+
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf)<br>
 
 **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P3.pdf) <br>
@@ -117,6 +121,8 @@ In this lecture, Rinkiny covered the following topics:
 - Motivation and Definition of Quasi-Isometry.
 - Some Basic Examples and Proposition related to Quasi-Isometry.
 - Proof of $\mathbb{R}$ and $\mathbb{Z}$ being quasi isometric.
+
+**Lecture Video**: [View](https://drive.google.com/file/d/1l94EGwxxLWOdbs-V2hoBAZ6g906iHypS/view?usp=sharing)<br>
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec4.pdf)<br>
 
@@ -133,6 +139,8 @@ In this lecture, I did some problem solving on group actions and discussed some 
 - Formalizing different quotienting ideas using Isomorphism Theorems.  
 - Quotienting on $\mathbb{R}^2$, while seeing it as a two-dimensional vector space.   
 - Some examples of proofs based on group actions like: Cayley's Theorem, Group Action on Automorphsim Groups of Certain Cayley Graphs, etc.
+
+**Lecture Video**: [View](https://drive.google.com/file/d/1nkEFXV6pAxiCvuRYH6_eG4pTfTLnn5C7/view?usp=sharing)<br>
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec5.pdf)<br>
 
@@ -148,7 +156,9 @@ In this lecture, Rinkiny covered the following topics:
 - Defined QI(X) and proved that it forms the Quasi-isometry group.
 - Proved quasi-isometry of groups with different generating sets and related results.  
 - Discussed relevant examples and additional properties.  
-- Established the definition, examples, and equivalence of growth functions.  
+- Established the definition, examples, and equivalence of growth functions.
+
+**Lecture Video**: [View](https://drive.google.com/file/d/1bCddzmznVKxXGA_iLL2bLxLrD_hDqzUr/view?usp=sharing)<br>
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec6.pdf)<br>
 
@@ -166,7 +176,9 @@ In this lecture, I covered the following topics:
 - Barycentric subdivision of cayley graph of a group.  
 - Tiling the Cayley graph of a given group.  
 - Finding a "nice" tiling for $\mathbb{F}_2$ (also discussed how to handle the general case!).
-- Proving the Nielsen–Schreier Theorem using group action on trees.  
+- Proving the Nielsen–Schreier Theorem using group action on trees.
+
+**Lecture Video**: [View](https://drive.google.com/file/d/1YBqTe-ti4BcFMRfwXfJ3bmSPuVSqMRyn/view?usp=sharing)<br>
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec7.pdf)<br>
 
@@ -181,7 +193,9 @@ In this lecture, Rinkiny covered the following topics:
 
 - Basics of growth functions. 
 - Quasi-isometric embedding of groups.   
-- Briefing on the end of UDGRP presentation topics. 
+- Briefing on the end of UDGRP presentation topics.
+
+**Lecture Video**: [View](https://drive.google.com/file/d/1Da5TxMBAeMhojxqVU4fNGJHJHOYH-J9y/view?usp=sharing)<br>
   
 **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec8.pdf)<br>
 
