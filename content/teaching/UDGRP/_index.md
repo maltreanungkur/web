@@ -236,6 +236,18 @@ In this session, Sayan Dewan, from BMath 1st Year presented the following topics
 - Proved the lemma
 - Applied the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_2(\mathbb{Z}) $
 
+### 4. Ends of Group
+
+**Date**: January 15, 2025.<br>
+**Speaker**: Nikhil Nagaria. <br>
+
+In this session, Nikhil Nagaria, from BMath 3rd Year, presented the following topics:  
+
+- Defining rays on a metric space, equivalence of rays  
+- Proving $\mathbb{R}$ has two ends  
+- Quasi-isometric proper and geodesic metric spaces have isomorphic ends  
+- Discussed amalgamated products and some theorems related to these topics 
+  
 ## References
 
 ### Reading (For Geometric Group Theory)
