@@ -255,6 +255,7 @@ In this session, Nikhil Nagaria, from BMath 3rd Year, presented the following to
 - Discussed amalgamated products and some theorems related to these topics.
 
 **Presentation Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes4.pdf)<br>
+
 **Presentation Scribbles**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes4(a).pdf)<br>
   
 ## References
